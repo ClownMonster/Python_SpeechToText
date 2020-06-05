@@ -1,4 +1,4 @@
-<h2 style="align:center"></h2>Python_SpeechToText</h2>
+<h2 allign="center"></h2>Python_SpeechToText</h2>
 <h4>Converting the audio to text using python's SpeechRecognition Library</h4>
 
 <h4>There are Two Ways of conversion : </h4>
